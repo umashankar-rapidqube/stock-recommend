@@ -1,0 +1,88 @@
+{
+"portfolio":[
+    {
+        "stockName":"Advanced enzyme",
+        "stockCode": "ADVENZYMES.IN"
+    },
+    {
+        "stockName":"Chambal fertilizer",
+        "stockCode": "CHAMBLFERT.IN"
+    },
+    {
+        "stockName":"Coal India",
+        "stockCode": "COALINDIA.IN"
+    },
+    {
+        "stockName":"Cyient",
+        "stockCode": "CYIENT.IN"
+    },
+    {
+        "stockName":"Dr Reddys Labs",
+        "stockCode": "DRREDDY.IN"
+    },
+    {
+        "stockName":"Eris Life",
+        "stockCode": "ERIS.IN"
+    },
+    {
+        "stockName":"Havells India",
+        "stockCode": "HAVELLS.IN"
+    },
+    {
+        "stockName":"HEG",
+        "stockCode": "HEG.IN"
+    },
+    {
+        "stockName":"Hexaware tech",
+        "stockCode": "HEXAWARE.IN"
+    },
+    {
+        "stockName":"Hindusthan Oil Exploration Company",
+        "stockCode": "HINDOILEXP.IN"
+    },
+    {
+        "stockName":"L&T Technology Services",
+        "stockCode": "LTTS.IN"
+    },
+    {
+        "stockName":"West coast paper",
+        "stockCode": "WSTCSTPAPR.IN"
+    },
+    {
+        "stockName":"Tech Mahindra",
+        "stockCode": "TECHM.IN"
+    },
+    {
+        "stockName":"TCS",
+        "stockCode": "TCS.IN"
+    },
+    {
+        "stockName":"Indusind Bank",
+        "stockCode": "INDUSINDBK.IN"
+    },
+    {
+        "stockName":"HDFC Bank",
+        "stockCode": "HDFCBANK.IN"
+    },
+    {
+        "stockName":"jammu kashmir Bank",
+        "stockCode": "JKBANK.IN"
+    },
+    {
+        "stockName":"ITC",
+        "stockCode": "ITC.IN"
+    },
+    {
+        "stockName":"Yes Bank",
+        "stockCode": "YESBANK.IN"
+    },
+    {
+        "stockName":"Reliance Power",
+        "stockCode": "RPOWER.IN"
+    },
+    {
+        "stockName":"Ratnamani Metal",
+        "stockCode": "RATNAMANI.IN"
+    }
+]
+}
